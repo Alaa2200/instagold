@@ -1,4 +1,4 @@
-Version 2.75 Changelog:
+Version 2.76 Changelog:
 
 >[Base Update] 249.0.0.20.105
 >[Remove] Font Style Due To Some Crashes
